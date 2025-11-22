@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240">
+  <rect width="480" height="240" fill="white" stroke="black" stroke-width="1" />
+  <text x="10" y="20" font-size="14" fill="black">Feature map comparison overview</text>
+  <line x1="240" y1="40" x2="240" y2="220" stroke="#888" stroke-dasharray="4 4" />
+  <text x="60" y="60" font-size="12" fill="#333">Angle encoding</text>
+  <circle cx="80" cy="120" r="6" fill="#1f77b4" stroke="black" />
+  <circle cx="120" cy="160" r="6" fill="#1f77b4" stroke="black" />
+  <text x="280" y="60" font-size="12" fill="#333">ZZFeatureMap</text>
+  <rect x="280" y="100" width="120" height="60" fill="#a1c9f4" stroke="#1f77b4" />
+  <text x="10" y="210" font-size="12" fill="black">Run the scripts to replace placeholders with live SVG plots.</text>
+</svg>

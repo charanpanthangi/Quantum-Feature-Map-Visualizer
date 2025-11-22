@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <rect width="320" height="240" fill="white" stroke="black" stroke-width="1" />
+  <text x="10" y="20" font-size="14" fill="black">Angle encoding kernel (illustrative)</text>
+  <circle cx="80" cy="120" r="6" fill="#4682b4" stroke="black" />
+  <circle cx="140" cy="80" r="6" fill="#4682b4" stroke="black" />
+  <circle cx="200" cy="160" r="6" fill="#4682b4" stroke="black" />
+  <circle cx="260" cy="100" r="6" fill="#4682b4" stroke="black" />
+  <text x="10" y="210" font-size="12" fill="black">SVG placeholder produced without binary data.</text>
+</svg>
